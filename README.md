@@ -6,6 +6,7 @@
 ### 开发语言
 ![java](https://img.shields.io/badge/-java-blue?style=for-the-badge&logo=OpenJDK&logoColor=white)
 ![kotlin](https://img.shields.io/badge/-kotlin-blue?style=for-the-badge&logo=kotlin&logoColor=white)
+![C#](https://img.shields.io/badge/-c%23-blue?style=for-the-badge&logo=C&logoColor=white)
 ![python](https://img.shields.io/badge/-python-blue?style=for-the-badge&logo=python&logoColor=white)
 ![php](https://img.shields.io/badge/-php-blue?style=for-the-badge&logo=php&logoColor=white)
 ![html5](https://img.shields.io/badge/-HTML5-blue?style=for-the-badge&logo=html5&logoColor=white)
