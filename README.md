@@ -13,13 +13,15 @@
 
 ### 编程工具
 ![idea](https://img.shields.io/badge/-idea-black?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![PyCharm](https://img.shields.io/badge/-PyCharm-black?style=for-the-badge&logo=PyCharm&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-black?style=for-the-badge&logo=visualstudio&logoColor=white)
+![VSCode](https://img.shields.io/badge/-vscode-black?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![maven](https://img.shields.io/badge/-maven-black?style=for-the-badge&logo=apache-maven&logoColor=white)
 ![gradle](https://img.shields.io/badge/-gradle-black?style=for-the-badge&logo=gradle&logoColor=white)
 ![git](https://img.shields.io/badge/-git-black?style=for-the-badge&logo=git&logoColor=white)
 ![github](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white)
 ![markdown](https://img.shields.io/badge/-markdown-black?style=for-the-badge&logo=markdown&logoColor=white)
-![json](https://img.shields.io/badge/-json-black?style=for-the-badge&logo=json&logoColor=white)
-![VSCode](https://img.shields.io/badge/-vscode-black?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
 
 这里是我的 Github 主页，可以随便逛逛噢~
 
