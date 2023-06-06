@@ -1,3 +1,6 @@
+
+![github.readme](https://counter.wyh2004.moe/get/@github.readme?theme=asoul)
+
 ### 一个来自中国的大学生+业余开发者，擅长摸鱼，业余时间随缘接单。
 
 #### 开发语言
