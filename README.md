@@ -1,8 +1,8 @@
+<a href="https://counter.wyh2004.moe/"><img src="https://counter.wyh2004.moe/get/@github.readme?theme=asoul" height="120" align="right"></a>
+
 # Hello there! 🤝
 
 ### I'm WYH2004 , A developer from China.
-
-<a href="https://counter.wyh2004.moe/"><img src="https://counter.wyh2004.moe/get/@github.readme?theme=asoul" height="100" align="right"></a>
 
 #### Platform&Tools
 [![](https://img.shields.io/badge/Windows-11-4e9eee?style=for-the-badge&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/windows-11)
