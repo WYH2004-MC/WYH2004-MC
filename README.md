@@ -29,7 +29,4 @@
 ![](https://img.shields.io/badge/-spigot-ED8106?style=for-the-badge&logo=spigotmc&logoColor=ffffff)
 
 #### Github Stats
-[![](https://github-readme-stats.vercel.app/api?username=WYH2004-MC&count_private=true&show_icons=true&locale=cn&include_all_commits=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats) 
-
-#### Top Langs
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=WYH2004-MC&hide=css,html&layout=compact&langs_count=8&theme=material-palenight&card_width=465)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats-one-bice.vercel.app/api?username=WYH2004-MC&count_private=true&theme=dark&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="WYH2004's GitHub stats" height="185px" /><img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=WYH2004-MC&layout=compact&langs_count=8&theme=dark&role=OWNER,ORGANIZATION_MEMBER" alt="Top Langs" height="185px" />
