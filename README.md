@@ -29,4 +29,4 @@
 ![](https://img.shields.io/badge/-spigot-ED8106?style=for-the-badge&logo=spigotmc&logoColor=ffffff)
 
 #### Github Stats
-<img src="https://github-readme-stats-one-bice.vercel.app/api?username=WYH2004-MC&count_private=true&theme=dark&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="WYH2004's GitHub stats" height="185px" /><img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=WYH2004-MC&layout=compact&langs_count=8&theme=dark&role=OWNER,ORGANIZATION_MEMBER" alt="Top Langs" height="185px" />
+<img src="https://github-readme-stats-one-bice.vercel.app/api?username=WYH2004-MC&count_private=true&theme=material-palenight&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="WYH2004's GitHub stats" height="185px" /> <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=WYH2004-MC&langs_count=8&theme=material-palenight&role=OWNER,ORGANIZATION_MEMBER" alt="Top Langs" height="185px" />
