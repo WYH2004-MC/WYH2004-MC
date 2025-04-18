@@ -1,4 +1,4 @@
-<a href="https://counter.wyh2004.moe/"><img src="https://counter.wyh2004.moe/get/@github.readme?theme=asoul" height="120" align="right"></a>
+<a href="https://counter.wyh2004.moe/"><img src="https://counter.wyh2004.moe/get/@github.readme?theme=gelbooru" height="120" align="right"></a>
 
 # Hello there! 🤝
 
