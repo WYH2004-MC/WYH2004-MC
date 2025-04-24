@@ -6,6 +6,7 @@
 
 #### Platform&Tools
 [![](https://img.shields.io/badge/Windows-11-4e9eee?style=for-the-badge&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/windows-11)
+[![](https://img.shields.io/badge/Macbook%20Air-M2-999999?style=for-the-badge&logo=apple&logoColor=ffffff)](https://www.apple.com/)
 [![](https://img.shields.io/badge/Linux-Debian-A81D33?style=for-the-badge&logo=Debian&logoColor=ffffff)](https://www.debian.org/)
 [![](https://img.shields.io/badge/Windows%20Server-2019-4e9eee?style=for-the-badge&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows)
 [![](https://img.shields.io/badge/Xiaomi-13-f45a00?style=for-the-badge&logo=android&logoColor=ffffff)](https://www.mi.com/)
