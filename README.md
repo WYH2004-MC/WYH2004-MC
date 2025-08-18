@@ -2,8 +2,6 @@
 
 # Hello there! 🤝
 
-### I'm WYH2004 , A developer from China.
-
 #### Platform&Tools
 [![](https://img.shields.io/badge/Windows-11-4e9eee?style=for-the-badge&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/windows-11)
 [![](https://img.shields.io/badge/Macbook%20Air-M2-999999?style=for-the-badge&logo=apple&logoColor=ffffff)](https://www.apple.com/)
