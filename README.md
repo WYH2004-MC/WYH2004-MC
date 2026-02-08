@@ -1,15 +1,15 @@
 <a href="https://counter.wyh2004.moe/"><img src="https://counter.wyh2004.moe/get/@github.readme?theme=gelbooru" height="120" align="right"></a>
 
-# Hello there! 🤝
+# Hello! 🤝
 
 #### Platform&Tools
 [![](https://img.shields.io/badge/Windows-11-4e9eee?style=for-the-badge&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/windows-11)
 [![](https://img.shields.io/badge/Macbook%20Air-M2-999999?style=for-the-badge&logo=apple&logoColor=ffffff)](https://www.apple.com/)
 [![](https://img.shields.io/badge/Linux-Arch-1793D1?style=for-the-badge&logo=Archlinux&logoColor=ffffff)](https://www.debian.org/)
 [![](https://img.shields.io/badge/Linux-Debian-A81D33?style=for-the-badge&logo=Debian&logoColor=ffffff)](https://www.debian.org/)
+[![](https://img.shields.io/badge/Iphone-17-999999?style=for-the-badge&logo=apple&logoColor=ffffff)](https://www.apple.com/)
 [![](https://img.shields.io/badge/Xiaomi-17-f45a00?style=for-the-badge&logo=android&logoColor=ffffff)](https://www.mi.com/)
 [![](https://img.shields.io/badge/Xiaomi-Pad%207-f45a00?style=for-the-badge&logo=android&logoColor=ffffff)](https://www.mi.com/)
-[![](https://img.shields.io/badge/Iphone-16e-999999?style=for-the-badge&logo=apple&logoColor=ffffff)](https://www.apple.com/)
 [![](https://img.shields.io/badge/IDE-JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=ffffff)](https://www.jetbrains.com/)
 [![](https://img.shields.io/badge/IDE-Visual%20Studio-007ec6?style=for-the-badge&logo=&logoColor=ffffff)](https://visualstudio.microsoft.com/)
 
